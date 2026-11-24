@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab04_Bai01\Lab04_Bai01.csproj" />
+    <ProjectReference Include="..\Lab04_Bai02\Lab04_Bai02.csproj" />
+    <ProjectReference Include="..\Lab04_Bai03\Lab04_Bai03.csproj" />
+    <ProjectReference Include="..\Lab04_Bai04\Lab04_Bai04.csproj" />
+    <ProjectReference Include="..\Lab04_Bai07\Lab04_Bai07.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>NT106.R14._1_Lab04_Nhom5</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>
