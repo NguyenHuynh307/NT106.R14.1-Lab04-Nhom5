@@ -1,0 +1,128 @@
+{
+  "Users": [
+    {
+      "Id": "user-demo-1",
+      "Username": "demo_user",
+      "Email": "demo@example.com",
+      "FirstName": "Minh",
+      "LastName": "Nguy\u1EC5n",
+      "Phone": "0901234567",
+      "Birthday": "2005-01-01T00:00:00",
+      "Language": "vi",
+      "Sex": "Nam",
+      "PasswordHash": "mdS4d8RVGrljIbLL7JoAmPLC2G4glRa7Hl2mcugLhZE=",
+      "PasswordSalt": "K8J3yp1zUHtqZA4iTQwQLg==",
+      "CreatedAt": "2026-11-26T09:22:11.8907254Z"
+    }
+  ],
+  "TokensToUserId": {
+    "sTlW/Yv/3kijZoCyryPuww==16c57aa6197e4994a0028357624ef3ee": "user-demo-1",
+    "iAyLiF\u002BDhky\u002BHxPGXmlRMA==98d4a2ac430b4acf8f91309e40bd7a09": "user-demo-1",
+    "1uNBcHdQFkmVi8aHvljyGg==66e819ed54e7471ebda531e4a7717cb6": "user-demo-1",
+    "l5GHp1f9/kOo2xeQYzdX\u002BA==a04b8b12cfd941a8a53b107da456e3e4": "user-demo-1",
+    "CcHwgj\u002BRMUaNNRVNlCvjmg==f33ab76b844a471b899785e4f1948633": "user-demo-1",
+    "qcPUP4v/3UmoyHN2HKwBzA==be9bd2159e8b4cfa93655a001b2c8715": "user-demo-1",
+    "9n4d42woZ0GWBxxJ79qgiQ==98e33d6bca51417b8000ba609aca4bc1": "user-demo-1"
+  },
+  "Foods": [
+    {
+      "Id": "food-1",
+      "Name": "C\u01A1m t\u1EA5m s\u01B0\u1EDDn b\u00EC ch\u1EA3",
+      "Price": 45000,
+      "Address": "Qu\u1EADn 1, TP.HCM",
+      "Description": "M\u00F3n \u0103n g\u1EE3i \u00FD m\u1EB7c \u0111\u1ECBnh \u0111\u1EC3 ki\u1EC3m th\u1EED API",
+      "Image": "",
+      "CreatedByUserId": "user-demo-1",
+      "CreatedByUsername": "demo_user",
+      "CreatedAt": "2026-11-26T09:14:11.8909615Z"
+    },
+    {
+      "Id": "food-2",
+      "Name": "Ph\u1EDF b\u00F2 t\u00E1i n\u1EA1m",
+      "Price": 55000,
+      "Address": "Qu\u1EADn 3, TP.HCM",
+      "Description": "M\u00F3n \u0103n g\u1EE3i \u00FD m\u1EB7c \u0111\u1ECBnh \u0111\u1EC3 ki\u1EC3m th\u1EED API",
+      "Image": "",
+      "CreatedByUserId": "user-demo-1",
+      "CreatedByUsername": "demo_user",
+      "CreatedAt": "2026-11-26T09:15:11.8909932Z"
+    },
+    {
+      "Id": "food-3",
+      "Name": "B\u00FAn ch\u1EA3 H\u00E0 N\u1ED9i",
+      "Price": 50000,
+      "Address": "Qu\u1EADn 5, TP.HCM",
+      "Description": "M\u00F3n \u0103n g\u1EE3i \u00FD m\u1EB7c \u0111\u1ECBnh \u0111\u1EC3 ki\u1EC3m th\u1EED API",
+      "Image": "",
+      "CreatedByUserId": "user-demo-1",
+      "CreatedByUsername": "demo_user",
+      "CreatedAt": "2026-11-26T09:16:11.8909951Z"
+    },
+    {
+      "Id": "food-4",
+      "Name": "B\u00E1nh m\u00EC th\u1ECBt n\u01B0\u1EDBng",
+      "Price": 25000,
+      "Address": "Th\u1EE7 \u0110\u1EE9c, TP.HCM",
+      "Description": "M\u00F3n \u0103n g\u1EE3i \u00FD m\u1EB7c \u0111\u1ECBnh \u0111\u1EC3 ki\u1EC3m th\u1EED API",
+      "Image": "",
+      "CreatedByUserId": "user-demo-1",
+      "CreatedByUsername": "demo_user",
+      "CreatedAt": "2026-11-26T09:17:11.8909993Z"
+    },
+    {
+      "Id": "food-5",
+      "Name": "H\u1EE7 ti\u1EBFu Nam Vang",
+      "Price": 48000,
+      "Address": "Qu\u1EADn 10, TP.HCM",
+      "Description": "M\u00F3n \u0103n g\u1EE3i \u00FD m\u1EB7c \u0111\u1ECBnh \u0111\u1EC3 ki\u1EC3m th\u1EED API",
+      "Image": "",
+      "CreatedByUserId": "user-demo-1",
+      "CreatedByUsername": "demo_user",
+      "CreatedAt": "2026-11-26T09:18:11.8910017Z"
+    },
+    {
+      "Id": "food-6",
+      "Name": "C\u01A1m g\u00E0 x\u1ED1i m\u1EE1",
+      "Price": 45000,
+      "Address": "Ph\u00FA Nhu\u1EADn, TP.HCM",
+      "Description": "M\u00F3n \u0103n g\u1EE3i \u00FD m\u1EB7c \u0111\u1ECBnh \u0111\u1EC3 ki\u1EC3m th\u1EED API",
+      "Image": "",
+      "CreatedByUserId": "user-demo-1",
+      "CreatedByUsername": "demo_user",
+      "CreatedAt": "2026-11-26T09:19:11.8910048Z"
+    },
+    {
+      "Id": "food-7",
+      "Name": "B\u00FAn ri\u00EAu cua \u0111\u1ED3ng",
+      "Price": 42000,
+      "Address": "B\u00ECnh Th\u1EA1nh, TP.HCM",
+      "Description": "M\u00F3n \u0103n g\u1EE3i \u00FD m\u1EB7c \u0111\u1ECBnh \u0111\u1EC3 ki\u1EC3m th\u1EED API",
+      "Image": "",
+      "CreatedByUserId": "user-demo-1",
+      "CreatedByUsername": "demo_user",
+      "CreatedAt": "2026-11-26T09:20:11.8910056Z"
+    },
+    {
+      "Id": "food-8",
+      "Name": "M\u00EC qu\u1EA3ng g\u00E0",
+      "Price": 45000,
+      "Address": "Qu\u1EADn 1, TP.HCM",
+      "Description": "M\u00F3n \u0103n g\u1EE3i \u00FD m\u1EB7c \u0111\u1ECBnh \u0111\u1EC3 ki\u1EC3m th\u1EED API",
+      "Image": "",
+      "CreatedByUserId": "user-demo-1",
+      "CreatedByUsername": "demo_user",
+      "CreatedAt": "2026-11-26T09:21:11.8910064Z"
+    },
+    {
+      "Id": "76f0e998491849368df5dde09a8b0c93",
+      "Name": "B\u00FAn b\u00F2 Hu\u1EBF",
+      "Price": 40000,
+      "Address": "Qu\u1EADn 5, TP.HCM",
+      "Description": "R\u1EA5t ngon",
+      "Image": "C:\\Users\\ASUS\\Downloads\\unnamed-(50)-(1).jpg",
+      "CreatedByUserId": "user-demo-1",
+      "CreatedByUsername": "demo_user",
+      "CreatedAt": "2026-11-26T09:22:46.6124136Z"
+    }
+  ]
+}
